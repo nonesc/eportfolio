@@ -52,7 +52,7 @@ background: linear-gradient(to left, #000000 , #434343); /* W3C, IE 10+/ Edge, F
 <div class="ui container" >
   <div class="ui inverted secondary pointing menu">
 
-    <a class="item active">
+    <a class="item active" href="index.php">
       Home
     </a>
     <a class="item" href="career.html">
