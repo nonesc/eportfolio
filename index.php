@@ -65,7 +65,9 @@ background: linear-gradient(to left, #000000 , #434343); /* W3C, IE 10+/ Edge, F
       Power profile
     </a>
 
-      <div class="ui simple dropdown item">Document <i class="dropdown icon"></i>
+    <div class="ui dropdown">
+      <div class="text">File</div>
+      <i class="dropdown icon"></i>
       <div class="menu">
         <a class="item" href="resume.html">Resume</a>
         <a class="item" href="coverletter.html">Cover letter</a>
