@@ -70,13 +70,13 @@ background: linear-gradient(to left, #000000 , #434343); /* W3C, IE 10+/ Edge, F
         <a class="item" href="resume.html">Resume</a>
         <a class="item" href="coverletter.html">Cover letter</a>
         <a class="item" href="transcript.html">Transcipt</a>
-           <a class="item" href="interview.html">Informational interview</a>
+        <a class="item" href="interview.html">Informational interview</a>
       </div>
     </div>
 
   </div>
   </div>
-</div>
+
 
 <div class = "ui container">
 <div class="ui vertically divided grid" id="g">
