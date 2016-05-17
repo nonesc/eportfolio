@@ -76,7 +76,7 @@ background: linear-gradient(to left, #000000 , #434343); /* W3C, IE 10+/ Edge, F
 
   </div>
   </div>
-
+</div>
 
 <div class = "ui container">
 <div class="ui vertically divided grid" id="g">
